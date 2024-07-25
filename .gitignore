@@ -1,0 +1,24 @@
+# Ignore compiled files
+*.mv
+
+# Ignore Move build artifacts
+build/
+target/
+
+# Ignore IDE specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.env.local
